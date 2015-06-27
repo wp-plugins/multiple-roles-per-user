@@ -11,10 +11,10 @@ Works when creating or editing an user.
 Allows anyone who can edit users to set multiple roles per user. In a default WordPress environment that wouldn't have much of an effect, since the user would have the privileges of the top-privileged role that you assign to him. But if you have custom roles with custom privileges, this might be helpful.
 
 = Known bug =
-If you use User Role Editor plugin, and it is active, when you try to change roles assigned to an user, in the user edit screen, you can only unassign one role per time.<br/>But, if User Role Editor is inactive, works like a charm.<br/>Any support with this is welcome.
+If you use User Role Editor plugin, and it is active, when you try to change roles assigned to an user, in the user edit screen, you can only unassign one role per time. But, if User Role Editor is inactive, works like a charm. Any support with this is welcome.
 
 = Thanks to: =
-nikolov-tmw (https://goo.gl/Xv563d)<br/>
+nikolov-tmw (https://goo.gl/Xv563d)
 evankennedy (https://goo.gl/sh2sX6)
 
 = Fork me on GitHub: =
